@@ -1,0 +1,8 @@
+version control software
+..........
+code integrtoin and code racking
+
+1. git hub(Microsoft)
+2. BitBucket(Atlassian)
+
+2nd class( 25/04/2026 )
